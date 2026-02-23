@@ -1,3 +1,7 @@
-[myhosts]
+[web_servers]
 dclappans01
+
+[db_servers]
 dclappans02
+
+[file_servers]
